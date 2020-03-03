@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختيار مكالمة </string>
+    <string name="sim1">بطاقة 2</string>
+    <string name="sim2">بطاقه 1</string>
+    <string name="Vodafone">Vodafone</string>
+    <string name="We">We</string>
+    <string name="Orange">Orange</string>
+    <string name="Etis">Etisalat</string>
+    <string name="save">Save</string>
+    <string name="attention">Attention</string>
+
+    <string name="option1"> - Anther Number will choose SIM Card</string>
+    <string name="option2"> - If The balance is over app will automatic transfer to Anther SIM Card  </string>
+
+    <string name="idea">App Idea </string>
+    <string name="detail">This program allows you to make specific numbers on the first Card and the other numbers on the second Card and also the ability to transfer your automatic Card when the balance is over so to solve the problem of choosing the Card every time</string>
+    <string name="personidea">Eng:Mina Karm</string>
+    <string name="ide"> Idea</string>
+    <string name="dev">Developer</string>
+    <string name="dev2">Eng:Rania Mofeed</string>
+    <string name="emai">Email :</string>
+    <string name="emaiil">Raniamofeed@gmail.com</string>
+    <string name="emaiil2">Mina.Karam_Aziz@Yahoo.com</string>
+    <string name="deeloper">Eng:Rania Mofeed</string>
+</resources>
